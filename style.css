@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(27, 27, 27);
+}
+
+main {
+
+}
+
+#container {
+
+}
+
+.pixel {
+    background-color: rgb(255, 255, 255);
+}
+
+.pixelHover {
+    background-color: gray;
+}
