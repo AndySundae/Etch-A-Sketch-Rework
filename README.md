@@ -14,8 +14,8 @@ try it here > https://andysundae.github.io/Etch-A-Sketch-Rework/
 
 ## Screenshots
 
-![Screenshot](/home/andy/repos/Etch-A-Sketch-Rework/Screenshot_2026-08-03_10-30-38.png)
-![Screenshot](/home/andy/repos/Etch-A-Sketch-Rework/etchasket.png)
+![Screenshot](Etch-A-Sketch-Rework/Screenshot_2026-08-03_10-30-38.png)
+![Screenshot](Etch-A-Sketch-Rework/etchasket.png)
 
 
 
