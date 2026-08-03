@@ -1,19 +1,45 @@
 body {
-    background-color: rgb(27, 27, 27);
+    margin: 0;
+    background-color: rgb(31, 31, 31);
+    overflow: hidden;
 }
 
 main {
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
 #container {
-
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* flex: 1;  ESTA MRD JODIA TODO*/
+    justify-content: center;
 }
 
 .pixel {
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 1);
+    width: 8px;
+    height: 8px;
 }
 
 .pixelHover {
-    background-color: gray;
+    background-color: rgb(0, 0, 0);
+}
+
+#topContainer {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#size, #crazy {
+    margin-top: 8px;
+    padding: 8px;
+    font-size: 16px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
 }
